@@ -1,0 +1,6 @@
+# some build files
+out/
+.vs/
+
+# cmake staff
+CMakeSettings.json
