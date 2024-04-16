@@ -1,6 +1,14 @@
 # some build files
 out/
 .vs/
+build/
 
 # cmake staff
 CMakeSettings.json
+
+# Diligent part
+DiligentCore/
+
+# idea
+.idea/
+cmake-build-debug/
